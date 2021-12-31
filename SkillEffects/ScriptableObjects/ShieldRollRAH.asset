@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7709adb1883d7234ba30441e36ce80c8, type: 3}
+  m_Name: ShieldRollRAH
+  m_EditorClassIdentifier: 
+  applyToTarget: 0
+  rollUp: 1
+  distance: 8
+  speed: 30
+  push: {fileID: 11400000, guid: a4f10426286f1454a85a2dd57be4b97a, type: 2}
